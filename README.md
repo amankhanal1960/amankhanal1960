@@ -10,7 +10,6 @@ I'm a passionate **Full-stack Web Developer** focused on building robust, scalab
 - **👯 My Learning Journey:** Exploring and mastering modern frameworks and tools to build better applications.
 - **🤝 Advanced Frontend Techniques:** Creating seamless, performant user experiences in large-scale applications.
 - **🌱 DSA & Next.js 15:** Sharpening my problem-solving skills and diving deep into the latest features of Next.js.
-- **⚡ Building a Medium-like App:** Developing a platform for blogging and storytelling that combines creative content with cutting-edge technology.
 
 ---
 
