@@ -6,11 +6,11 @@ I'm a passionate **Full-stack Web Developer** focused on building robust, scalab
 
 ##  My Journey & Projects
 
-- ** Full-stack Development Projects:** Constantly working on innovative projects that integrate both frontend and backend technologies.
-- ** My Learning Journey:** Exploring and mastering modern frameworks and tools to build better applications.
-- ** Advanced Frontend Techniques:** Creating seamless, performant user experiences in large-scale applications.
-- ** DSA & Next.js 15:** Sharpening my problem-solving skills and diving deep into the latest features of Next.js.
-- ** Currently learning machine learning fundamentals with a focus in EDA and scikit-learn. 
+- **Full-stack Development Projects:** Constantly working on innovative projects that integrate both frontend and backend technologies.
+- **My Learning Journey:** Exploring and mastering modern frameworks and tools to build better applications.
+- **Advanced Frontend Techniques:** Creating seamless, performant user experiences in large-scale applications.
+- **DSA & Next.js 15:** Sharpening my problem-solving skills and diving deep into the latest features of Next.js.
+- **Currently learning machine learning fundamentals with a focus in EDA and scikit-learn. 
 
 ---
 
