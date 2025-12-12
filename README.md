@@ -24,7 +24,7 @@ I'm a passionate **Full-stack Web Developer** focused on building robust, scalab
 ### Backend & More
 - **C & C++** – Developing high-performance and efficient applications.
 - **Node.js** – Creating scalable backend solutions.
-- Python & scikit-learn – For ML experiments, EDA, and building simple models.
+- **Python & scikit-learn** – For ML experiments, EDA, and building simple models.
 - **Git & GitHub** – Maintaining clean, version-controlled code.
 - **VS Code** – My go-to editor for an optimal coding experience.
 
