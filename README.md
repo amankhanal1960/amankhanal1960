@@ -4,16 +4,17 @@ I'm a passionate **Full-stack Web Developer** focused on building robust, scalab
 
 ---
 
-## 🚀 My Journey & Projects
+##  My Journey & Projects
 
-- **🔭 Full-stack Development Projects:** Constantly working on innovative projects that integrate both frontend and backend technologies.
-- **👯 My Learning Journey:** Exploring and mastering modern frameworks and tools to build better applications.
-- **🤝 Advanced Frontend Techniques:** Creating seamless, performant user experiences in large-scale applications.
-- **🌱 DSA & Next.js 15:** Sharpening my problem-solving skills and diving deep into the latest features of Next.js.
+- ** Full-stack Development Projects:** Constantly working on innovative projects that integrate both frontend and backend technologies.
+- ** My Learning Journey:** Exploring and mastering modern frameworks and tools to build better applications.
+- ** Advanced Frontend Techniques:** Creating seamless, performant user experiences in large-scale applications.
+- ** DSA & Next.js 15:** Sharpening my problem-solving skills and diving deep into the latest features of Next.js.
+- ** Currently learning machine learning fundamentals with a focus in EDA and scikit-learn. 
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ### Frontend
 - **Next.js 15** – Leveraging the latest features for server-side rendering and static site generation.
@@ -23,12 +24,13 @@ I'm a passionate **Full-stack Web Developer** focused on building robust, scalab
 ### Backend & More
 - **C & C++** – Developing high-performance and efficient applications.
 - **Node.js** – Creating scalable backend solutions.
+- Python & scikit-learn – For ML experiments, EDA, and building simple models.
 - **Git & GitHub** – Maintaining clean, version-controlled code.
 - **VS Code** – My go-to editor for an optimal coding experience.
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Whether you're looking for collaboration or just a chat about new tech trends, feel free to reach out!
 
