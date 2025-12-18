@@ -1,6 +1,6 @@
 # Hi, I'm Aman Khanal! 👋
 
-I'm a passionate **Full-stack Web Developer** focused on building robust, scalable, and dynamic web applications. I thrive on learning new technologies and pushing the boundaries of frontend and backend development.
+I'm an Engineering Student.
 
 ---
 
@@ -8,9 +8,9 @@ I'm a passionate **Full-stack Web Developer** focused on building robust, scalab
 
 - **Full-stack Development Projects:** Constantly working on innovative projects that integrate both frontend and backend technologies.
 - **My Learning Journey:** Exploring and mastering modern frameworks and tools to build better applications.
-- **Advanced Frontend Techniques:** Creating seamless, performant user experiences in large-scale applications.
-- **DSA & Next.js 15:** Sharpening my problem-solving skills and diving deep into the latest features of Next.js.
-- **Machine Learning:** Currently learning machine learning fundamentals with a focus in EDA and scikit-learn. 
+- **Advanced Frontend Techniques:** Creating seamless, performant user experiences in large-scale applications and diving deep into the latest features of Next.js.
+- **DSA** Sharpening my problem-solving skills.
+- **Machine Learning:** Currently learning machine learning fundamentals with a focus in scikit-learn. 
 
 ---
 
