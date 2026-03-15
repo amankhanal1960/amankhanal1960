@@ -10,7 +10,7 @@ I'm an Engineering Student.
 - **My Learning Journey:** Exploring and mastering modern frameworks and tools to build better applications.
 - **Advanced Frontend Techniques:** Creating seamless, performant user experiences in large-scale applications and diving deep into the latest features of Next.js.
 - **DSA** Sharpening my problem-solving skills.
-- **Machine Learning:** Currently learning machine learning fundamentals with a focus in scikit-learn. 
+- **Machine Learning:** Currently learning machine learning fundamentals with a focus in machine learning and deep learning. 
 
 ---
 
