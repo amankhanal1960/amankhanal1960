@@ -6,11 +6,12 @@ I'm an Engineering Student.
 
 ##  My Journey & Projects
 
-- **Full-stack Development Projects:** Constantly working on innovative projects that integrate both frontend and backend technologies.
-- **My Learning Journey:** Exploring and mastering modern frameworks and tools to build better applications.
-- **Advanced Frontend Techniques:** Creating seamless, performant user experiences in large-scale applications and diving deep into the latest features of Next.js.
-- **DSA** Sharpening my problem-solving skills.
 - **Machine Learning:** Currently learning machine learning fundamentals with a focus in machine learning and deep learning. 
+- **My Learning Journey:** Exploring and mastering modern frameworks and tools to build better applications.
+- **DSA** Sharpening my problem-solving skills.
+- **Advanced Frontend Techniques:** Creating seamless, performant user experiences in large-scale applications and diving deep into the latest features of Next.js.
+- **Full-stack Development Projects:** Constantly working on innovative projects that integrate both frontend and backend technologies.
+
 
 ---
 
